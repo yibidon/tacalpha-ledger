@@ -1,0 +1,61 @@
+{
+ "generated_at": "2026-07-03T00:09:45Z",
+ "entries": [
+  {
+   "seq": "000001",
+   "signal_id": "TAL-000001",
+   "committed_at": "2026-07-03T00:08:54Z",
+   "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+   "hash": "18bb465d772e2ad2c0d4567a07918e13daa7c5122999fe7549956dc4040565b0",
+   "signal": {
+    "action": "watchlist",
+    "asof": "2026-07-01",
+    "committed_at": "2026-07-03T00:08:54Z",
+    "execution_window": {
+     "end": "2026-07-07",
+     "start": "2026-07-06"
+    },
+    "exit_rules": {
+     "review": "weekly",
+     "time_stop_days": 21
+    },
+    "instruments": [
+     {
+      "direction": "long",
+      "rank": 1,
+      "symbol": "QQQ"
+     },
+     {
+      "direction": "long",
+      "rank": 2,
+      "symbol": "EEM"
+     },
+     {
+      "direction": "long",
+      "rank": 3,
+      "symbol": "SPY"
+     },
+     {
+      "direction": "long",
+      "rank": 4,
+      "symbol": "VNQ"
+     },
+     {
+      "direction": "long",
+      "rank": 5,
+      "symbol": "EFA"
+     }
+    ],
+    "portfolio": "research",
+    "signal_id": "TAL-000001",
+    "thesis": "Liquid-ETF momentum rotation: top 5 of a 10-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-01."
+   },
+   "grade": {
+    "status": "pending",
+    "mean_return_pct": null,
+    "n_graded": 0,
+    "n_instruments": 5
+   }
+  }
+ ]
+}
