@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T02:00:26Z",
+ "generated_at": "2026-07-10T02:00:26Z",
  "entries": [
   {
    "seq": "000001",
@@ -52,7 +52,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -1.02,
+    "mean_return_pct": -1.35,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -108,7 +108,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -3.51,
+    "mean_return_pct": -2.59,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -217,6 +217,62 @@
     "portfolio": "research",
     "signal_id": "TAL-000004",
     "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-07."
+   },
+   "grade": {
+    "status": "pending",
+    "mean_return_pct": null,
+    "n_graded": 0,
+    "n_instruments": 5
+   }
+  },
+  {
+   "seq": "000005",
+   "signal_id": "TAL-000005",
+   "committed_at": "2026-07-10T02:00:18Z",
+   "prev_hash": "ca10942c2768bc1d6a96ef44a8d36453db20981935e6c264e01292dd201d8c58",
+   "hash": "f00c37471b58dcf4382372e9d08e6af9d9f7d5f052da98333b708bb5b42eb3cd",
+   "signal": {
+    "action": "watchlist",
+    "asof": "2026-07-08",
+    "committed_at": "2026-07-10T02:00:18Z",
+    "execution_window": {
+     "end": "2026-07-14",
+     "start": "2026-07-13"
+    },
+    "exit_rules": {
+     "review": "weekly",
+     "time_stop_days": 21
+    },
+    "instruments": [
+     {
+      "direction": "long",
+      "rank": 1,
+      "symbol": "XBI"
+     },
+     {
+      "direction": "long",
+      "rank": 2,
+      "symbol": "QQQ"
+     },
+     {
+      "direction": "long",
+      "rank": 3,
+      "symbol": "EEM"
+     },
+     {
+      "direction": "long",
+      "rank": 4,
+      "symbol": "SPY"
+     },
+     {
+      "direction": "long",
+      "rank": 5,
+      "symbol": "GRID"
+     }
+    ],
+    "portfolio": "research",
+    "signal_id": "TAL-000005",
+    "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-08."
    },
    "grade": {
     "status": "pending",
