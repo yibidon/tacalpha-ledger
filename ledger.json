@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T02:00:32Z",
+ "generated_at": "2026-07-23T02:00:35Z",
  "entries": [
   {
    "seq": "000001",
@@ -52,7 +52,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -2.26,
+    "mean_return_pct": -0.92,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -108,7 +108,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -8.71,
+    "mean_return_pct": -5.7,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -164,7 +164,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -4.37,
+    "mean_return_pct": -2.55,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -220,7 +220,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -4.01,
+    "mean_return_pct": -2.18,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -276,7 +276,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -1.96,
+    "mean_return_pct": -0.09,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -332,7 +332,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -1.96,
+    "mean_return_pct": -0.09,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -388,7 +388,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -1.9,
+    "mean_return_pct": -0.37,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -444,7 +444,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -0.96,
+    "mean_return_pct": 0.6,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -500,7 +500,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -0.46,
+    "mean_return_pct": 1.11,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -556,7 +556,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": 0.0,
+    "mean_return_pct": 1.58,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -612,7 +612,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": 0.0,
+    "mean_return_pct": 1.58,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -721,6 +721,62 @@
     "portfolio": "research",
     "signal_id": "TAL-000013",
     "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-20."
+   },
+   "grade": {
+    "status": "pending",
+    "mean_return_pct": null,
+    "n_graded": 0,
+    "n_instruments": 5
+   }
+  },
+  {
+   "seq": "000014",
+   "signal_id": "TAL-000014",
+   "committed_at": "2026-07-23T02:00:21Z",
+   "prev_hash": "c18b776d36d78fe19f7cf977e683287a7a5e8d8afe78e4a441eb3894eb5f6801",
+   "hash": "06bb36eb3667ec671b0072d222eb32523f0f6c1310a619ceda06a4f1d4d2b59c",
+   "signal": {
+    "action": "watchlist",
+    "asof": "2026-07-21",
+    "committed_at": "2026-07-23T02:00:21Z",
+    "execution_window": {
+     "end": "2026-07-27",
+     "start": "2026-07-24"
+    },
+    "exit_rules": {
+     "review": "weekly",
+     "time_stop_days": 21
+    },
+    "instruments": [
+     {
+      "direction": "long",
+      "rank": 1,
+      "symbol": "XBI"
+     },
+     {
+      "direction": "long",
+      "rank": 2,
+      "symbol": "QQQ"
+     },
+     {
+      "direction": "long",
+      "rank": 3,
+      "symbol": "XLE"
+     },
+     {
+      "direction": "long",
+      "rank": 4,
+      "symbol": "SPY"
+     },
+     {
+      "direction": "long",
+      "rank": 5,
+      "symbol": "EEM"
+     }
+    ],
+    "portfolio": "research",
+    "signal_id": "TAL-000014",
+    "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-21."
    },
    "grade": {
     "status": "pending",
