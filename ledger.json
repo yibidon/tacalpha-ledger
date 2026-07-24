@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T02:00:35Z",
+ "generated_at": "2026-07-24T02:00:30Z",
  "entries": [
   {
    "seq": "000001",
@@ -52,7 +52,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -0.92,
+    "mean_return_pct": -1.22,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -108,7 +108,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -5.7,
+    "mean_return_pct": -5.98,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -164,7 +164,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -2.55,
+    "mean_return_pct": -3.03,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -220,7 +220,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -2.18,
+    "mean_return_pct": -2.67,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -276,7 +276,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -0.09,
+    "mean_return_pct": -0.59,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -332,7 +332,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -0.09,
+    "mean_return_pct": -0.59,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -388,7 +388,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -0.37,
+    "mean_return_pct": -1.01,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -444,7 +444,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": 0.6,
+    "mean_return_pct": -0.05,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -500,7 +500,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": 1.11,
+    "mean_return_pct": 0.46,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -556,7 +556,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": 1.58,
+    "mean_return_pct": 0.92,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -612,7 +612,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": 1.58,
+    "mean_return_pct": 0.92,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -667,9 +667,9 @@
     "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-17."
    },
    "grade": {
-    "status": "pending",
-    "mean_return_pct": null,
-    "n_graded": 0,
+    "status": "open",
+    "mean_return_pct": 0.0,
+    "n_graded": 5,
     "n_instruments": 5
    }
   },
@@ -777,6 +777,62 @@
     "portfolio": "research",
     "signal_id": "TAL-000014",
     "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-21."
+   },
+   "grade": {
+    "status": "pending",
+    "mean_return_pct": null,
+    "n_graded": 0,
+    "n_instruments": 5
+   }
+  },
+  {
+   "seq": "000015",
+   "signal_id": "TAL-000015",
+   "committed_at": "2026-07-24T02:00:16Z",
+   "prev_hash": "06bb36eb3667ec671b0072d222eb32523f0f6c1310a619ceda06a4f1d4d2b59c",
+   "hash": "14a3db18d818d4aab3d7aebea88f4b578d0e3a0162503c486ae1cdab7d8f9f2e",
+   "signal": {
+    "action": "watchlist",
+    "asof": "2026-07-22",
+    "committed_at": "2026-07-24T02:00:16Z",
+    "execution_window": {
+     "end": "2026-07-28",
+     "start": "2026-07-27"
+    },
+    "exit_rules": {
+     "review": "weekly",
+     "time_stop_days": 21
+    },
+    "instruments": [
+     {
+      "direction": "long",
+      "rank": 1,
+      "symbol": "XBI"
+     },
+     {
+      "direction": "long",
+      "rank": 2,
+      "symbol": "QQQ"
+     },
+     {
+      "direction": "long",
+      "rank": 3,
+      "symbol": "XLE"
+     },
+     {
+      "direction": "long",
+      "rank": 4,
+      "symbol": "SPY"
+     },
+     {
+      "direction": "long",
+      "rank": 5,
+      "symbol": "EEM"
+     }
+    ],
+    "portfolio": "research",
+    "signal_id": "TAL-000015",
+    "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-22."
    },
    "grade": {
     "status": "pending",
