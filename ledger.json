@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T02:00:40Z",
+ "generated_at": "2026-07-29T02:00:37Z",
  "entries": [
   {
    "seq": "000001",
@@ -52,7 +52,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -2.3,
+    "mean_return_pct": -2.24,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -108,7 +108,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -9.17,
+    "mean_return_pct": -9.5,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -164,7 +164,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -4.87,
+    "mean_return_pct": -4.92,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -220,7 +220,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -4.51,
+    "mean_return_pct": -4.56,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -276,7 +276,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -2.48,
+    "mean_return_pct": -2.53,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -332,7 +332,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -2.48,
+    "mean_return_pct": -2.53,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -668,7 +668,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -0.53,
+    "mean_return_pct": -1.06,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -724,7 +724,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -0.48,
+    "mean_return_pct": -1.62,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -780,7 +780,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": 0.0,
+    "mean_return_pct": -0.37,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -835,9 +835,9 @@
     "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-22."
    },
    "grade": {
-    "status": "pending",
-    "mean_return_pct": null,
-    "n_graded": 0,
+    "status": "open",
+    "mean_return_pct": 0.0,
+    "n_graded": 5,
     "n_instruments": 5
    }
   },
@@ -891,9 +891,9 @@
     "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-23."
    },
    "grade": {
-    "status": "pending",
-    "mean_return_pct": null,
-    "n_graded": 0,
+    "status": "open",
+    "mean_return_pct": 0.0,
+    "n_graded": 5,
     "n_instruments": 5
    }
   },
@@ -945,6 +945,62 @@
     "portfolio": "research",
     "signal_id": "TAL-000017",
     "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-24."
+   },
+   "grade": {
+    "status": "pending",
+    "mean_return_pct": null,
+    "n_graded": 0,
+    "n_instruments": 5
+   }
+  },
+  {
+   "seq": "000018",
+   "signal_id": "TAL-000018",
+   "committed_at": "2026-07-29T02:00:20Z",
+   "prev_hash": "c35fd0d8c1ba3849fe044a8df1b48d61b8013ff956caf189066a647a19854a91",
+   "hash": "ed5b7071b5d1767a46b7433e3cbf97e8aa93f042b9ca10ef373acb9940d045d2",
+   "signal": {
+    "action": "watchlist",
+    "asof": "2026-07-27",
+    "committed_at": "2026-07-29T02:00:20Z",
+    "execution_window": {
+     "end": "2026-07-31",
+     "start": "2026-07-30"
+    },
+    "exit_rules": {
+     "review": "weekly",
+     "time_stop_days": 21
+    },
+    "instruments": [
+     {
+      "direction": "long",
+      "rank": 1,
+      "symbol": "XBI"
+     },
+     {
+      "direction": "long",
+      "rank": 2,
+      "symbol": "VNQ"
+     },
+     {
+      "direction": "long",
+      "rank": 3,
+      "symbol": "SPY"
+     },
+     {
+      "direction": "long",
+      "rank": 4,
+      "symbol": "EFA"
+     },
+     {
+      "direction": "long",
+      "rank": 5,
+      "symbol": "XLE"
+     }
+    ],
+    "portfolio": "research",
+    "signal_id": "TAL-000018",
+    "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-07-27."
    },
    "grade": {
     "status": "pending",
