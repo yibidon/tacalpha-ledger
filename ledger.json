@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T03:00:58Z",
+ "generated_at": "2026-11-26T03:00:57Z",
  "entries": [
   {
    "seq": "000001",
@@ -4419,8 +4419,8 @@
     "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-10-21."
    },
    "grade": {
-    "status": "open",
-    "mean_return_pct": -9.26,
+    "status": "closed",
+    "mean_return_pct": -9.57,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -4475,8 +4475,8 @@
     "thesis": "Liquid-ETF momentum rotation: top 5 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-10-22."
    },
    "grade": {
-    "status": "open",
-    "mean_return_pct": -8.89,
+    "status": "closed",
+    "mean_return_pct": -7.94,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -4532,7 +4532,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -8.59,
+    "mean_return_pct": -8.92,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -4588,7 +4588,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -8.31,
+    "mean_return_pct": -8.64,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -4644,7 +4644,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -8.74,
+    "mean_return_pct": -7.86,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -4700,7 +4700,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -6.61,
+    "mean_return_pct": -5.69,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -4751,7 +4751,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -5.01,
+    "mean_return_pct": -3.33,
     "n_graded": 4,
     "n_instruments": 4
    }
@@ -4802,7 +4802,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -2.76,
+    "mean_return_pct": -0.95,
     "n_graded": 4,
     "n_instruments": 4
    }
@@ -4853,7 +4853,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -3.42,
+    "mean_return_pct": -1.66,
     "n_graded": 4,
     "n_instruments": 4
    }
@@ -4909,7 +4909,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -3.86,
+    "mean_return_pct": -2.27,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -4955,7 +4955,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -3.12,
+    "mean_return_pct": -2.9,
     "n_graded": 3,
     "n_instruments": 3
    }
@@ -5001,7 +5001,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -3.65,
+    "mean_return_pct": -3.43,
     "n_graded": 3,
     "n_instruments": 3
    }
@@ -5057,7 +5057,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -3.73,
+    "mean_return_pct": -3.25,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -5113,7 +5113,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -3.91,
+    "mean_return_pct": -3.43,
     "n_graded": 5,
     "n_instruments": 5
    }
@@ -5164,7 +5164,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -3.16,
+    "mean_return_pct": -2.85,
     "n_graded": 4,
     "n_instruments": 4
    }
@@ -5215,7 +5215,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -3.16,
+    "mean_return_pct": -2.85,
     "n_graded": 4,
     "n_instruments": 4
    }
@@ -5266,7 +5266,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -1.3,
+    "mean_return_pct": -0.98,
     "n_graded": 4,
     "n_instruments": 4
    }
@@ -5312,7 +5312,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -0.59,
+    "mean_return_pct": -0.05,
     "n_graded": 3,
     "n_instruments": 3
    }
@@ -5358,7 +5358,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": -0.06,
+    "mean_return_pct": 0.48,
     "n_graded": 3,
     "n_instruments": 3
    }
@@ -5394,7 +5394,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": 0.0,
+    "mean_return_pct": 0.02,
     "n_graded": 1,
     "n_instruments": 1
    }
@@ -5430,7 +5430,7 @@
    },
    "grade": {
     "status": "open",
-    "mean_return_pct": 0.0,
+    "mean_return_pct": 0.02,
     "n_graded": 1,
     "n_instruments": 1
    }
@@ -5499,6 +5499,42 @@
     "portfolio": "research",
     "signal_id": "TAL-000101",
     "thesis": "Liquid-ETF momentum rotation: top 1 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-11-23."
+   },
+   "grade": {
+    "status": "pending",
+    "mean_return_pct": null,
+    "n_graded": 0,
+    "n_instruments": 1
+   }
+  },
+  {
+   "seq": "000102",
+   "signal_id": "TAL-000102",
+   "committed_at": "2026-11-26T03:00:10Z",
+   "prev_hash": "ee7037706c4dbbf525ff988e73cb977777684d8e88c09453703894ba0d690dcf",
+   "hash": "3e8a34b26508c3817e2956d1173692b62eb39e554f80b02629f4749d8930fc8d",
+   "signal": {
+    "action": "watchlist",
+    "asof": "2026-11-24",
+    "committed_at": "2026-11-26T03:00:10Z",
+    "execution_window": {
+     "end": "2026-11-30",
+     "start": "2026-11-27"
+    },
+    "exit_rules": {
+     "review": "weekly",
+     "time_stop_days": 21
+    },
+    "instruments": [
+     {
+      "direction": "long",
+      "rank": 1,
+      "symbol": "SGOV"
+     }
+    ],
+    "portfolio": "research",
+    "signal_id": "TAL-000102",
+    "thesis": "Liquid-ETF momentum rotation: top 1 of a 15-ETF liquid universe by trailing-quarter relative momentum with a long-term trend filter, as of 2026-11-24."
    },
    "grade": {
     "status": "pending",
